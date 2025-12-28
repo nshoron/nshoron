@@ -1,8 +1,11 @@
 👋 Hi, I’m Nasrum Sharon
 
 🎓 Computer Science Student at American International University–Bangladesh (AIUB)
+
 💻 Currently learning Web Development & Programming
+
 🚀 Passionate about building, optimizing, and improving software systems
+
 📈 Interested in problem-solving, system design, and continuous learning
 
 
